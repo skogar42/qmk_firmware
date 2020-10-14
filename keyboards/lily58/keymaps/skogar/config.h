@@ -18,6 +18,8 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
+#include "quantum.h"
+
 #pragma once
 
 //#define USE_MATRIX_I2C
@@ -51,3 +53,17 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_ANIMATIONS
 #define RGBLIGHT_SLEEP
 */
+
+
+// Macros
+#define KC_CHROME_TAB_RIGHT LCTL(KC_PGDOWN)
+#define KC_CHROME_TAB_LEFT  LCTL(KC_PGUP)
+
+#define KC_LINUX_WKSP_RIGHT LCTL(LALT(KC_RIGHT))
+#define KC_LINUX_WKSP_LEFT  LCTL(LALT(KC_LEFT))
+#define KC_LINUX_TERM	    LCTL(LALT(KC_T))
+#define KC_LINUX_BROWSER    LCTL(LALT(KC_B))
+#define KC_LINUX_MAX        LCTL(LALT(KC_M))
+
+
+
