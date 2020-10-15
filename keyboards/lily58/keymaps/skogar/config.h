@@ -65,5 +65,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define KC_LINUX_BROWSER    LCTL(LALT(KC_B))
 #define KC_LINUX_MAX        LCTL(LALT(KC_M))
 
+#define KC_CTAGS_DEF        LCTL(KC_RBRC)
+#define KC_CTAGS_BACK       LCTL(KC_T)
+
 
 
