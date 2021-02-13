@@ -8,6 +8,8 @@ This layout is inspired by [miryoku](https://github.com/manna-harbour/qmk_firmwa
     - Chrome: move to left/right tabs
     - Linux: move workspaces left/right
     - Ctags: pop up stack, go to function definition
+5. Gaming: Alpha without mod taps
+5. Gaming: Numbers in row and numpad
 
 # Mod Taps
 - Home row: 
